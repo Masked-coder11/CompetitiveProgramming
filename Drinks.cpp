@@ -2,9 +2,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int findNearest(vector<int>&v, int target, int n, int flow){
-    
-}
 
 int main() {
     // Write C++ code here
